@@ -105,7 +105,7 @@ The $v$ notation for embedding coordinates is motivated by the fact that most em
     <tr>
       <td>{{emb.title}}</td>
       {% for em in emb.children %}
-      <td><img src = "{{em.url}}" width="111" height="168"></td>
+      <td><img src = "{{site.baseurl}}{{em.url}}" width="111" height="168"></td>
       {% endfor %}
     </tr>
     {% endfor %}
