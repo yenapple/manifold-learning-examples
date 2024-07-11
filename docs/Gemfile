@@ -1,0 +1,8 @@
+#-------------------Init------------------------------------------------
+source "https://rubygems.org"
+gemspec
+
+
+#------------------Gems-------------------------------------------------
+#For github pages usage, comment the line above and uncomment the line below. To upgrade, run `bundle update github-pages`.
+gem "github-pages", "~>231", group: :jekyll_plugins

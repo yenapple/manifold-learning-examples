@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "What is it"
+    url: /
+  - title: "Algorithms"
+    url: /
+  - title: "Articles"
+    url: /
+  - title: "Software"
+    url: https://mmp2.github.io/megaman/#megaman-manifold-learning-for-millions-of-points
+  - title: "Contacts"
+    url: https://github.com/mmp2/manifold-learning-examples
+
+
+algorithms:
+  - title: "Dimension Reduction"
+    children:
+      - title: "PCA"
+        url: /
+      - title: "Principal Curves & Surfaces"
+        url: /
+      - title: "-> SCMS"
+        url: /
+  - title: "Embedding algorithms"
+    children:
+      - title: "Isomap"
+        url: /
+      - title: "DiffusionMap"
+        url: /
