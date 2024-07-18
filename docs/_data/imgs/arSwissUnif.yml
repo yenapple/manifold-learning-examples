@@ -1,0 +1,65 @@
+
+- title: "Isomap"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a8b6_Isomap_phi.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a10b4_Isomap_phi.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a12b3_8_Isomap_phi.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a8b1_9_Isomap_phi.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a10b1_9_Isomap_phi.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a16b1_9_Isomap_phi.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/Isomap/SwissRoll/Swiss_Roll_a20b1_9_Isomap_phi.jpg
+- title: "Spectral"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a8b6_Spectral_phi.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a10b4_Spectral_phi.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a12b3_8_Spectral_phi.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a8b1_9_Spectral_phi.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a10b1_9_Spectral_phi.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a16b1_9_Spectral_phi.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/SwissRoll/Swiss_Roll_a20b1_9_Spectral_phi.jpg
+- title: "LLE"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a8b6_n5000_phi.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a10b4_n5000_phi.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a12b3.8_n5000_phi.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a8b1.9_n5000_phi.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a10b1.9_n5000_phi.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a16b1.9_n5000_phi.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/LLE/SwissRoll/SwissRoll_LLE_a20b1.9_n5000_phi.jpg
+- title: "UMAP"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a8b6.jpeg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a10b4.jpeg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a12b3.8.jpeg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a8b1.9.jpeg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a10b1.9.jpeg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a16b1.9.jpeg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/UMAP/SwissRoll/swissRoll_n5000_dim20_a20b1.9.jpeg

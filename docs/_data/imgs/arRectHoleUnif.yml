@@ -1,0 +1,73 @@
+
+- title: "Isomap"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a4b3_Isomap_x.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a5b2_Isomap_x.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a6b1_9_Isomap_x.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a8b1_9_Isomap_x.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a10b1_9_Isomap_x.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a16b1_9_Isomap_x.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a20b1_9_Isomap_x.jpg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/Isomap/RectangleHole/Rectangle_hole_a30b1_9_Isomap_x.jpg
+- title: "Spectral"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a4b3_Spectral_x.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a5b2_Spectral_x.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a6b1_9_Spectral_x.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a8b1_9_Spectral_x.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a10b1_9_Spectral_x.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a16b1_9_Spectral_x.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a20b1_9_Spectral_x.jpg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/RectangleHole/Rectangle_hole_a30b1_9_Spectral_x.jpg
+- title: "LLE"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a4b3_n5000_X.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a5b2_n5000_X.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a6b1.9_n5000_X.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a8b1.9_n5000_X.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a10b1.9_n5000_X.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a16b1.9_n5000_X.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a20b1.9_n5000_X.jpg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a30b1.9_n5000_X.jpg
+- title: "UMAP"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a4b3.jpeg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a5b2.jpeg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a6b1.9.jpeg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a8b1.9.jpeg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a10b1.9.jpeg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a16b1.9.jpeg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a20b1.9.jpeg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/UMAP/RectangleHole/rectHole_n5000_dim20_a30b1.9.jpeg

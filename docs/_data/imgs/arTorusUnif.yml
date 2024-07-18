@@ -1,0 +1,57 @@
+
+- title: "Isomap"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Isomap/Torus/Torus_a4b3_Isomap_z.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Isomap/Torus/Torus_a5b2_Isomap_z.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Isomap/Torus/Torus_a6b1_9_Isomap_z.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Isomap/Torus/Torus_a8b1_9_Isomap_z.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Isomap/Torus/Torus_a10b1_9_Isomap_z.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Isomap/Torus/Torus_a16b1_9_Isomap_z.jpg
+- title: "Spectral"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/Torus/Torus_a4b3_Spectral_z.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/Torus/Torus_a5b2_Spectral_z.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/Torus/Torus_a6b1_9_Spectral_z.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/Torus/Torus_a8b1_9_Spectral_z.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/Torus/Torus_a10b1_9_Spectral_z.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Spectral-megaman/Torus/Torus_a16b1_9_Spectral_z.jpg
+- title: "LLE"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/LLE/Torus/Torus_LLE_a4b3_n10000_Z.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/LLE/Torus/Torus_LLE_a5b2_n10000_Z.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/LLE/Torus/Torus_LLE_a6b1.9_n10000_Z.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/LLE/Torus/Torus_LLE_a8b1.9_n10000_Z.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/LLE/Torus/Torus_LLE_a10b1.9_n10000_Z.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/LLE/Torus/Torus_LLE_a16b1.9_n10000_Z.jpg
+- title: "UMAP"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/UMAP/Torus/torus_n10000_dim20_R4r3.jpeg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/UMAP/Torus/torus_n10000_dim20_R5r2.jpeg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/UMAP/Torus/torus_n10000_dim20_R6r1.9.jpeg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/UMAP/Torus/torus_n10000_dim20_R8r1.9.jpeg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/UMAP/Torus/torus_n10000_dim20_R10r1.9.jpeg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/UMAP/Torus/torus_n10000_dim20_R16r1.9.jpeg
