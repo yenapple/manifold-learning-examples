@@ -38,21 +38,21 @@
 - title: "LLE"
   children:
     - ar: 1.33
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a4b3_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a4b3_n5021_X.jpg
     - ar: 2.5
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a5b2_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a5b2_n5021_X.jpg
     - ar: 3.16
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a6b1.9_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a6b1.9_n5021_X.jpg
     - ar: 4.21
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a8b1.9_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a8b1.9_n5021_X.jpg
     - ar: 5.26
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a10b1.9_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a10b1.9_n5021_X.jpg
     - ar: 8.42
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a16b1.9_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a16b1.9_n5021_X.jpg
     - ar: 10.53
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a20b1.9_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a20b1.9_n5021_X.jpg
     - ar: 15.79
-      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a30b1.9_n5000_X.jpg
+      url: /assets/images/aspect-ratio-plots/LLE/RectangleHole/RectangleHole_LLE_a30b1.9_n5021_X.jpg
 - title: "UMAP"
   children:
     - ar: 1.33
