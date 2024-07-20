@@ -1,8 +1,10 @@
 ---
 
-permalink: /articles/aspect-ratio
+title: "Aspect Ratio"
 
-toc: true
+tags:
+  - artifact
+  - uniform
 
 gal_horseshoe:
   - url: /assets/images/other-figures/galaxy_1_2.png
@@ -24,8 +26,6 @@ gal_nohorseshoe:
     alt: "rectangle 7 x 1, no horseshoe"
     title: "rectangle 7 x 1, no horseshoe"
 
-sidebar:
-  nav: "algorithms"
 
 ---
 

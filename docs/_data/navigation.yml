@@ -1,25 +1,25 @@
 # main links
 main:
-  - title: "What is it"
-    url: /
-  - title: "Algorithms"
-    url: /
+  - title: "Tutorials"
+    url: /tutorials/
+  - title: "Theory"
+    url: /theory/
   - title: "Articles"
-    url: /
+    url: /articles/
   - title: "Software"
-    url: https://mmp2.github.io/megaman/#megaman-manifold-learning-for-millions-of-points
+    url: /software/
   - title: "Contacts"
-    url: https://github.com/mmp2/manifold-learning-examples
+    url: /
 
 
-algorithms:
-  - title: "Dimension Reduction"
+theory:
+  - title: "Manifolds"
     children:
-      - title: "PCA"
+      - title: "Topological Manifolds"
         url: /
-      - title: "Principal Curves & Surfaces"
+      - title: "Smooth Manifolds"
         url: /
-      - title: "-> SCMS"
+      - title: "Riemannian Manifolds"
         url: /
   - title: "Embedding algorithms"
     children:
@@ -27,3 +27,50 @@ algorithms:
         url: /
       - title: "DiffusionMap"
         url: /
+
+
+tutorials:
+  - title: "What is manifold learning"
+    children:
+      - title: "manifolds explained"
+        url: /
+      - title: "manifold learning explained"
+        url: /
+  - title: "Video tutorial"
+    children:
+      - title: "Lecture 1: Introduction"
+        url: /
+      - title: "Lecture 2: Dimension Reduction Algorithm"
+        url: /
+      - title: "Lecture 3: Embedding Algorithms and Questions"
+        url: /
+  - title: "Talks"
+    children:
+      - title: "Unsupervised Learning in the Age of Big Data"
+        url: /
+      - title: "Dimension Reduction from User's Perspective"
+        url: /
+
+software:
+  - title: "Sk-learn"
+    children:
+      - title: "About Sk-learn"
+        url: /
+      - title: "Beginner's guide"
+        url: /
+  - title: "Megaman"
+    children:
+      - title: "About Megaman"
+        url: /
+      - title: "Installation"
+        url: /
+      - title: "Geometry Object"
+        url: /
+  - title: "Code Examples"
+    children:
+     -title: "Generating Synthetic plots"
+      url: /
+     -title: "Non - Uniform plots"
+      url: /
+     -title: "Computing Riemann Metric"
+      url: /
