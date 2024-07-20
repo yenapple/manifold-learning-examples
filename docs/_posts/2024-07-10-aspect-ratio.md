@@ -1,7 +1,7 @@
 ---
 
 title: "Aspect Ratio"
-#categories: articles
+
 
 tags:
   - artifact
