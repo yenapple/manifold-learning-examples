@@ -68,9 +68,9 @@ software:
         url: /
   - title: "Code Examples"
     children:
-     -title: "Generating Synthetic plots"
-      url: /
-     -title: "Non - Uniform plots"
-      url: /
-     -title: "Computing Riemann Metric"
-      url: /
+     - title: "Generating Synthetic plots"
+       url: /
+     - title: "Non - Uniform plots"
+       url: /
+     - title: "Computing Riemann Metric"
+       url: /
