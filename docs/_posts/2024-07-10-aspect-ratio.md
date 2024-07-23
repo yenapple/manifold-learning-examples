@@ -1,6 +1,7 @@
 ---
 
-title: "Aspect Ratio"
+permalink: /articles/aspect-ratio
+title: "The effect of manifold aspect ratio: seeing 'horseshoes' everywhere"
 
 
 tags:
@@ -30,8 +31,6 @@ gal_nohorseshoe:
 
 ---
 
-The effect of manifold aspect ratio: seeing "horseshoes" everywhere
-====================================================================
 
 > Hangliang Ren, Murray Kang, Qirui Wang, Yujia Wu, Marina Meila
 

@@ -1,12 +1,11 @@
 ---
 
 permalink: /tutorials/manifolds-explained
+title: "Manifold: Explained"
 
 ---
 
 
-Manifolds explained
-====================
 Think of the surface of the Earth (pretend it has no oceans and life, and it's smoothed out by e.g. Google Earth). This is a *manifold*.
 
 Dimensions:  intrinsic ($d$), embedding ($m$), and ambient ($D$)

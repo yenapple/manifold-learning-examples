@@ -18,7 +18,7 @@ theory:
       - title: "Topological Manifolds"
         url: /
       - title: "Smooth Manifolds"
-        url: /
+        url: theory/sampletheory2
       - title: "Riemannian Manifolds"
         url: /
   - title: "Embedding algorithms"
@@ -33,23 +33,22 @@ tutorials:
   - title: "What is manifold learning"
     children:
       - title: "manifolds explained"
-        url: /
+        url: /tutorials/manifolds-explained
       - title: "manifold learning explained"
-        url: /
+        url: /tutorials/manifold-learning-explained
   - title: "Video tutorial"
     children:
       - title: "Lecture 1: Introduction"
-        url: /
-      - title: "Lecture 2: Dimension Reduction Algorithm"
-        url: /
+        url: /tutorials/lecture1
+      - title: "Lecture 2: Dimension Reduction Algorithms"
+        url: /tutorials/lecture2
       - title: "Lecture 3: Embedding Algorithms and Questions"
-        url: /
+        url: /tutorials/lecture3
   - title: "Talks"
     children:
-      - title: "Unsupervised Learning in the Age of Big Data"
-        url: /
-      - title: "Dimension Reduction from User's Perspective"
-        url: /
+      - title: "Selected Talks"
+        url: tutorials/selected-talks
+
 
 software:
   - title: "Sk-learn"
@@ -61,7 +60,7 @@ software:
   - title: "Megaman"
     children:
       - title: "About Megaman"
-        url: /
+        url: /software/about-megaman
       - title: "Installation"
         url: /
       - title: "Geometry Object"
