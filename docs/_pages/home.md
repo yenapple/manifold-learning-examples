@@ -40,9 +40,9 @@ What is in this site
 
 You may navigate this site through the categories on the upper navigation bar. (In each category, there is a side navigation bar directing through each content.)
 
-- [Tutorials](/tutorials/) include short tutorial posts on manifolds and manifold learning, longer tutorial videos, review paper and related recent talks.  
-- [Articles](/articles/) include a series of short articles, illustrating significant but less widely known counterintuitive behaviors of manifold learning algorithms. Most of these effects are predictable or documented theoretically, and we include (light) references to the main sources.
-- [Software](/software/) include python code examples generating synthetic examples/descriptive plots in both uniform/nonuniform manner. These are mostly based on packages [Sk-learn](https://scikit-learn.org/stable/) and [megaman](https://github.com/mmp2/megaman), for which we also share installation process and experiences on those packages.
+- [Tutorials]({{site.baseurl}}/tutorials/) include short tutorial posts on manifolds and manifold learning, longer tutorial videos, review paper and related recent talks.  
+- [Articles]({{site.baseurl}}/articles/) include a series of short articles, illustrating significant but less widely known counterintuitive behaviors of manifold learning algorithms. Most of these effects are predictable or documented theoretically, and we include (light) references to the main sources.
+- [Software]({{site.baseurl}}/software/) include python code examples generating synthetic examples/descriptive plots in both uniform/nonuniform manner. These are mostly based on packages [Sk-learn](https://scikit-learn.org/stable/) and [megaman](https://github.com/mmp2/megaman), for which we also share installation process and experiences on those packages.
 
 
 
