@@ -22,23 +22,23 @@
 - title: "LLE"
   children:
     - ar: 1.33
-      url: https://user-images.githubusercontent.com/91905313/217172087-4e96604a-7c4e-4e27-9127-d37e24bf4859.jpg 
+      url: "https://user-images.githubusercontent.com/91905313/217172087-4e96604a-7c4e-4e27-9127-d37e24bf4859.jpg"
     - ar: 2.5
-      url: https://user-images.githubusercontent.com/91905313/217172112-1147aab6-41f3-424d-8974-08384140dae7.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172112-1147aab6-41f3-424d-8974-08384140dae7.jpg"
     - ar: 3.16
-      url: https://user-images.githubusercontent.com/91905313/217172133-27cd5197-dabc-4e65-a5a2-9534e52b410b.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172133-27cd5197-dabc-4e65-a5a2-9534e52b410b.jpg"
     - ar: 4.21
-      url: https://user-images.githubusercontent.com/91905313/217172163-7befa458-5dda-4df6-ab91-d96056f4a95c.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172163-7befa458-5dda-4df6-ab91-d96056f4a95c.jpg"
     - ar: 5.26
-      url: https://user-images.githubusercontent.com/91905313/217172183-7fbadd7b-ccd0-4615-a7cc-fed395306eb5.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172183-7fbadd7b-ccd0-4615-a7cc-fed395306eb5.jpg"
     - ar: 8.42
-      url: https://user-images.githubusercontent.com/91905313/217172205-8fdbcbc4-24e5-4c43-bc84-4ed2fb83cded.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172205-8fdbcbc4-24e5-4c43-bc84-4ed2fb83cded.jpg"
     - ar: 10.53
-      url: https://user-images.githubusercontent.com/91905313/217172230-26efc21e-187f-4d97-b0d7-d4e2f07ad483.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172230-26efc21e-187f-4d97-b0d7-d4e2f07ad483.jpg"
     - ar: 15.79
-      url: https://user-images.githubusercontent.com/91905313/217172251-4cc7c6ef-9d8e-4e31-a69e-e7b7d1001a62.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172251-4cc7c6ef-9d8e-4e31-a69e-e7b7d1001a62.jpg"
     - ar: 18.95
-      url: https://user-images.githubusercontent.com/91905313/217172266-ba6fd36b-4afa-4601-9776-dc30834f6f12.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217172266-ba6fd36b-4afa-4601-9776-dc30834f6f12.jpg"
 - title: "Isomap"
   children:
     - ar: 1.33 
@@ -72,7 +72,7 @@
     - ar: 5.26
       url: /assets/images/aspect-ratio-plots/Spectral/variable_density/RectangleHole/Non-uniform_rectHole_n5059_dim20_a10b1.9_2Centers_sd0.76_x.jpg
     - ar: 8.42
-      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/RectangleHole/Non-uniform_rectHole_n4887_dim20_a16b1.9_2Centers_sd1.2666666666666666.jpg
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/RectangleHole/Non-uniform_rectHole_n4887_dim20_a16b1.9_2Centers_sd1.2666666666666666_x.jpg
     - ar: 10.53
       url: /assets/images/aspect-ratio-plots/Spectral/variable_density/RectangleHole/Non-uniform_rectHole_n5815_dim20_a20b1.9_2Centers_sd1.4869565217391305_x.jpg
     - ar: 15.79

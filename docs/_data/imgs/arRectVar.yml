@@ -22,23 +22,23 @@
 - title: "LLE"
   children:
     - ar: 1.33
-      url: https://user-images.githubusercontent.com/91905313/217168170-ad1b3859-bed7-4108-9983-6b8c40649e3d.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168170-ad1b3859-bed7-4108-9983-6b8c40649e3d.jpg"
     - ar: 2.5
-      url: https://user-images.githubusercontent.com/91905313/217168341-17740623-4115-4780-b2f9-aad92cd691d8.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168341-17740623-4115-4780-b2f9-aad92cd691d8.jpg"
     - ar: 3.16
-      url: https://user-images.githubusercontent.com/91905313/217168312-b37d99dd-7d3b-4cdf-bc43-246adf4e2ffe.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168312-b37d99dd-7d3b-4cdf-bc43-246adf4e2ffe.jpg"
     - ar: 4.21
-      url: https://user-images.githubusercontent.com/91905313/217168279-2d9dae26-cebf-417c-ae4b-009a468b0551.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168279-2d9dae26-cebf-417c-ae4b-009a468b0551.jpg"
     - ar: 5.26
-      url: https://user-images.githubusercontent.com/91905313/217168263-53b5dd1a-3edb-434d-b9e1-245f78a0e0b3.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168263-53b5dd1a-3edb-434d-b9e1-245f78a0e0b3.jpg"
     - ar: 8.42
-      url: https://user-images.githubusercontent.com/91905313/217168244-5d5fb55e-d77d-44a3-8884-9ba4335ef019.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168244-5d5fb55e-d77d-44a3-8884-9ba4335ef019.jpg"
     - ar: 10.53
-      url: https://user-images.githubusercontent.com/91905313/217168329-d0a9d153-e417-4298-99f2-a41e602afcd5.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168329-d0a9d153-e417-4298-99f2-a41e602afcd5.jpg"
     - ar: 15.79
-      url: https://user-images.githubusercontent.com/91905313/217168225-a59ceac8-2131-40d5-a17f-91692b4ec34a.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168225-a59ceac8-2131-40d5-a17f-91692b4ec34a.jpg"
     - ar: 18.95
-      url: https://user-images.githubusercontent.com/91905313/217168216-58f14b9d-b530-4ce1-96c8-32f4344d6d4d.jpg
+      url: "https://user-images.githubusercontent.com/91905313/217168216-58f14b9d-b530-4ce1-96c8-32f4344d6d4d.jpg"
 - title: "Isomap"
   children:
     - ar: 1.33

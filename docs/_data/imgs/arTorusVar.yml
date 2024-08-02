@@ -8,7 +8,7 @@
     - ar: 3.16
       url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Torus/Non-uniform_Torus_n8580_dim20_R6r1.9_2Centers_sd0.7.jpeg
     - ar: 4.21
-      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Torus/Non-uniform_Torus_n8806_dim20_R8r1.9_2Centers_sd0..jpeg
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Torus/Non-uniform_Torus_n8806_dim20_R8r1.9_2Centers_sd0.8.jpeg
     - ar: 5.26
       url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Torus/Non-uniform_Torus_n8856_dim20_R10r1.9_2Centers_sd0.95.jpeg
     - ar: 8.42
@@ -22,23 +22,23 @@
 - title: "LLE"
   children:
     - ar: 1.33
-      url: https://user-images.githubusercontent.com/91905313/217187921-edca6da4-2ed2-44af-958f-215424e8092d.png
+      url: "https://user-images.githubusercontent.com/91905313/217187921-edca6da4-2ed2-44af-958f-215424e8092d.png"
     - ar: 2.5
-      url: https://user-images.githubusercontent.com/91905313/217187932-a75618db-e4b9-4d25-a862-cbe2bd299647.png
+      url: "https://user-images.githubusercontent.com/91905313/217187932-a75618db-e4b9-4d25-a862-cbe2bd299647.png"
     - ar: 3.16
-      url: https://user-images.githubusercontent.com/91905313/217187942-25ebfbbd-170a-4219-9a8f-faaa80e2646b.png
+      url: "https://user-images.githubusercontent.com/91905313/217187942-25ebfbbd-170a-4219-9a8f-faaa80e2646b.png"
     - ar: 4.21
-      url: https://user-images.githubusercontent.com/91905313/217187956-dccafc73-ab12-45ed-be59-e6d56563bcb9.png
+      url: "https://user-images.githubusercontent.com/91905313/217187956-dccafc73-ab12-45ed-be59-e6d56563bcb9.png"
     - ar: 5.26
-      url: https://user-images.githubusercontent.com/91905313/217187975-3217e0a2-95ae-4f66-a438-0e785f1673ce.png
+      url: "https://user-images.githubusercontent.com/91905313/217187975-3217e0a2-95ae-4f66-a438-0e785f1673ce.png"
     - ar: 8.42
-      url: https://user-images.githubusercontent.com/91905313/217187991-d7da1cde-bb15-4fcb-a08e-2d6536d65194.png
+      url: "https://user-images.githubusercontent.com/91905313/217187991-d7da1cde-bb15-4fcb-a08e-2d6536d65194.png"
     - ar: 10.53
-      url: https://user-images.githubusercontent.com/91905313/217188009-4c5235bc-8f0a-4596-ac46-d7536f0e4a82.png
+      url: "https://user-images.githubusercontent.com/91905313/217188009-4c5235bc-8f0a-4596-ac46-d7536f0e4a82.png"
     - ar: 15.791
-      url: https://user-images.githubusercontent.com/91905313/217188025-24b4031e-309c-42b3-b311-4071ba066fd2.png
+      url: "https://user-images.githubusercontent.com/91905313/217188025-24b4031e-309c-42b3-b311-4071ba066fd2.png"
     - ar: 15.792
-      url: https://user-images.githubusercontent.com/91905313/217188037-39fbff12-670e-4a49-a27f-b8089b9418f4.png
+      url: "https://user-images.githubusercontent.com/91905313/217188037-39fbff12-670e-4a49-a27f-b8089b9418f4.png"
 - title: "Isomap"
   children:
     - ar: 1.33 

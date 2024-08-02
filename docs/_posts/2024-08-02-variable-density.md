@@ -113,7 +113,7 @@ Swiss Roll
     </tr>
   </thead>
   <tbody>
-    {% for emb in site.data.imgs.arSwissRoleVar %}
+    {% for emb in site.data.imgs.arSwissVar %}
     <tr>
       <td>{{emb.title}}</td>
       {% for em in emb.children %}
