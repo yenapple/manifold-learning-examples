@@ -19,7 +19,8 @@
       url: /assets/images/aspect-ratio-plots/UMAP/variable_density/RectangleHole/Non-uniform_rectHole_n4746_dim20_a30b1.9_2Centers_sd1.9.jpeg
     - ar: 18.95
       url: /assets/images/aspect-ratio-plots/UMAP/variable_density/RectangleHole/Non-uniform_rectHole_n4255_dim20_a36b1.9_2Centers_sd2.5999999999999996.jpeg
-  children: "LLE"
+- title: "LLE"
+  children:
     - ar: 1.33
       url: https://user-images.githubusercontent.com/91905313/217172087-4e96604a-7c4e-4e27-9127-d37e24bf4859.jpg 
     - ar: 2.5
