@@ -1,0 +1,81 @@
+
+- title: "UMAP"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n6935_dim20_a4b3_2Centers_sd0.75.jpeg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n7267_dim20_a5b2_2Centers_sd0.5714285714285714.jpeg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n7107_dim20_a6b1.9_2Centers_sd0.5937499999999999.jpeg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n6861_dim20_a8b1.9_2Centers_sd0.6586666666666666.jpeg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n6370_dim20_a10b1.9_2Centers_sd0.76.jpeg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n6058_dim20_a16b1.9_2Centers_sd1.2666666666666666.jpeg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n7193_dim20_a20b1.9_2Centers_sd1.4869565217391305.jpeg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n5824_dim20_a30b1.9_2Centers_sd1.9.jpeg
+    - ar: 18.95
+      url: /assets/images/aspect-ratio-plots/UMAP/variable_density/Rectangle/Non-uniform_rect_n5170_dim20_a36b1.9_2Centers_sd2.5999999999999996.jpeg
+- title: "LLE"
+  children:
+    - ar: 1.33
+      url: https://user-images.githubusercontent.com/91905313/217168170-ad1b3859-bed7-4108-9983-6b8c40649e3d.jpg
+    - ar: 2.5
+      url: https://user-images.githubusercontent.com/91905313/217168341-17740623-4115-4780-b2f9-aad92cd691d8.jpg
+    - ar: 3.16
+      url: https://user-images.githubusercontent.com/91905313/217168312-b37d99dd-7d3b-4cdf-bc43-246adf4e2ffe.jpg
+    - ar: 4.21
+      url: https://user-images.githubusercontent.com/91905313/217168279-2d9dae26-cebf-417c-ae4b-009a468b0551.jpg
+    - ar: 5.26
+      url: https://user-images.githubusercontent.com/91905313/217168263-53b5dd1a-3edb-434d-b9e1-245f78a0e0b3.jpg
+    - ar: 8.42
+      url: https://user-images.githubusercontent.com/91905313/217168244-5d5fb55e-d77d-44a3-8884-9ba4335ef019.jpg
+    - ar: 10.53
+      url: https://user-images.githubusercontent.com/91905313/217168329-d0a9d153-e417-4298-99f2-a41e602afcd5.jpg
+    - ar: 15.79
+      url: https://user-images.githubusercontent.com/91905313/217168225-a59ceac8-2131-40d5-a17f-91692b4ec34a.jpg
+    - ar: 18.95
+      url: https://user-images.githubusercontent.com/91905313/217168216-58f14b9d-b530-4ce1-96c8-32f4344d6d4d.jpg
+- title: "Isomap"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n6935_dim20_a4b3_2Centers_sd0.75_x.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n7267_dim20_a5b2_2Centers_sd0.5714285714285714_x.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n7107_dim20_a6b1.9_2Centers_sd0.5937499999999999_x.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n6861_dim20_a8b1.9_2Centers_sd0.6586666666666666_x.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n6370_dim20_a10b1.9_2Centers_sd0.76_x.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n6058_dim20_a16b1.9_2Centers_sd1.2666666666666666_x.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n7193_dim20_a20b1.9_2Centers_sd1.4869565217391305_x.jpg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n5824_dim20_a30b1.9_2Centers_sd1.9_x.jpg
+    - ar: 18.95
+      url: /assets/images/aspect-ratio-plots/Isomap/variable_density/Rectangle/Non-uniform_rect_n5170_dim20_a36b1.9_2Centers_sd2.5999999999999996_x.jpg
+- title: "Spectral"
+  children:
+    - ar: 1.33
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n6935_dim20_a4b3_2Centers_sd0.75_x.jpg
+    - ar: 2.5
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n7267_dim20_a5b2_2Centers_sd0.5714285714285714_x.jpg
+    - ar: 3.16
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n7107_dim20_a6b1.9_2Centers_sd0.5937499999999999_x.jpg
+    - ar: 4.21
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n6861_dim20_a8b1.9_2Centers_sd0.6586666666666666_x.jpg
+    - ar: 5.26
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n6370_dim20_a10b1.9_2Centers_sd0.76_x.jpg
+    - ar: 8.42
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n6058_dim20_a16b1.9_2Centers_sd1.2666666666666666_x.jpg
+    - ar: 10.53
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n7193_dim20_a20b1.9_2Centers_sd1.4869565217391305_x.jpg
+    - ar: 15.79
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n5824_dim20_a30b1.9_2Centers_sd1.9_x.jpg
+    - ar: 18.95
+      url: /assets/images/aspect-ratio-plots/Spectral/variable_density/Rectangle/Non-uniform_rect_n5170_dim20_a36b1.9_2Centers_sd2.5999999999999996_x.jpg
